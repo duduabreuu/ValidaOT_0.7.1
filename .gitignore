@@ -1,0 +1,14 @@
+# Configuração privada e dados locais do ValidaOT
+.env
+backend/.env
+backend/validaot_dev_v013.db
+backend/audit_dev_genesis.json
+
+# Ambientes virtuais, caches e arquivos gerados
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.log
