@@ -11,7 +11,7 @@ O ValidaOT é um protótipo acadêmico para controle de acesso de técnicos terc
 - Adaptador industrial `SIMULATED`.
 - Sem conexão com equipamentos SCADA, IHM, CLPs ou redes OT reais.
 - Sem integração com inteligência artificial.
-- Protótipo destinado à demonstração acadêmica; não homologado para produção industrial.
+- Protótipo destinado à demonstração acadêmica; não homologado para produção industrial no momento.
 
 ## 2. Requisitos
 
